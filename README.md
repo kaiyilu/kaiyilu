@@ -20,6 +20,8 @@ Small, dependency-free reference libraries and interactive field guides document
   Marketplace image requirement specs, Canvas2D pure-white (`RGB 255,255,255`) background boundary scanning, and Amazon 85% product frame-fill calculation.
 - **[canvas-story-deck-kit](https://github.com/kaiyilu/canvas-story-deck-kit)** · [Field Guide](https://kaiyilu.github.io/canvas-story-deck-kit/)  
   `crypto.getRandomValues` Fisher-Yates deck shuffling, card spread layout coordinates, and high-DPI `1080×1920` HTML5 Canvas2D card rendering.
+- **[grid-and-fretwork-math](https://github.com/kaiyilu/grid-and-fretwork-math)** · [Field Guide](https://kaiyilu.github.io/grid-and-fretwork-math/)  
+  31-bit bitmask Nonogram line deduction, uniqueness-verified grid solving, 2D 4-connected BFS scroll-saw/stencil floating-island auto-bridging, and 3-tooth blade sizing.
 
 ---
 
@@ -43,3 +45,5 @@ Small, dependency-free reference libraries and interactive field guides document
 - [Solving Carpenter 1/16" Tape Rounding and IES Lighting Grids in Vanilla JS](https://dev.to/kaiyilu/solving-carpenter-116-tape-rounding-and-ies-lighting-grids-in-vanilla-js-399o)
 - [Batch-Downloading Excel Image URLs & Calculating Amazon 85% Product Fill in Pure Browser JS](https://dev.to/kaiyilu/batch-downloading-excel-image-urls-calculating-amazon-85-product-fill-in-pure-browser-js-aip)
 - [Generating Cut-Ready Stained Glass SVGs in Pure Browser JS: Shared Half-Edges & Copper Foil Kerf](https://dev.to/kaiyilu/generating-cut-ready-stained-glass-svgs-in-pure-browser-js-shared-half-edges-copper-foil-kerf-3dpm)
+- [Frustum Concrete Pier Math, High-Bay Beam Cones & Running-Bond CMU Deductions in Vanilla TypeScript](https://dev.to/kaiyilu/frustum-concrete-pier-math-high-bay-beam-cones-running-bond-cmu-deductions-in-vanilla-typescript-3325)
+- [Bitmask Nonogram Line Solvers & 2D BFS Stencil Island Bridging in Pure TypeScript](https://dev.to/kaiyilu/bitmask-nonogram-line-solvers-2d-bfs-stencil-island-bridging-in-pure-typescript-194d)
